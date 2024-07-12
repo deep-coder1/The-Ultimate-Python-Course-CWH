@@ -40,3 +40,5 @@ TimeStamps ⌚
 (4) Chapter 1 - PS Problem 1, 2 solved   00:25:15 - Start - 00:29:30 End"
 (5) Chapter 1 - PS Problem 3 solved   00:29:30 - Start - 00:30:55 End"
 (6) Chapter 1 - PS Problem 4, 5 solved   00:30:35 - Start - 00:34:56 End"
+
+(7) Chapter 2 - Variables, Data Types, Rules of Variables   00:34:56 - Start - 00:45:46 End"
