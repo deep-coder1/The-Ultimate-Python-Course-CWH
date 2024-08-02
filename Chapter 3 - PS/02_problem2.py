@@ -11,6 +11,7 @@ You are selected!
 
 print(letter.replace("<|Name|>", "Deepak").replace("<|Date|", "30 August 2024"))
 
+# Output"
 # \Python\The-Ultimate-Python-Course-CWH\Chapter 3 - PS> python .\02_problem2.py
 # Dear Deepak, 
 # You are selected! 
