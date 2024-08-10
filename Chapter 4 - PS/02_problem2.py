@@ -21,6 +21,7 @@ marks.sort()
 print(marks)
 
 # Output:
+
 # \Python\The-Ultimate-Python-Course-CWH\Chapter 4 - PS> python .\02_problem2.py
 # Enter Marks here: 40
 # Enter Marks here: 30
