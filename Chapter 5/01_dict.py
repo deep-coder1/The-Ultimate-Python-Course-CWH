@@ -1,16 +1,14 @@
 d = {} # Empty dictionary
 marks = {
-    "Harry": 100,
+    "Deepak": 100,
     "Shubham": 56,
     "Rohan": 23
 }
 
 
 # print(marks, type(marks))
-print(marks["Harry"])
+print(marks["Deepak"])
 
 # Output:
-# \Python\The-Ultimate-Python-Course-CWH\Chapter 4> python .\01_list.py
-# Apple
-# Grapes
-# ['Orange', 5, 345.06]
+# \Python\The-Ultimate-Python-Course-CWH\Chapter 5> python .\01_dict.py
+# 100
