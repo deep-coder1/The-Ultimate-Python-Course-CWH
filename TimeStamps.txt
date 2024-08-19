@@ -42,3 +42,5 @@ TimeStamps ⌚
 (6) Chapter 1 - PS Problem 4, 5 solved   00:30:35 - Start - 00:34:56 End"
 
 (7) Chapter 2 - Variables, Data Types, Rules of Variables   00:34:56 - Start - 00:45:46 End"
+
+(5.5 T) CHAPTER 5 – DICTIONARY & SETS  02:42:40 - Start - 02:49:40 End"
