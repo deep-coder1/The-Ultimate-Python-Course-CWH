@@ -3,3 +3,7 @@
 
 s = {}
 print(type(s))
+
+# Output:
+# \Python\The-Ultimate-Python-Course-CWH\Chapter 5 - PS> python .\05_problem5.py
+# <class 'dict'>
