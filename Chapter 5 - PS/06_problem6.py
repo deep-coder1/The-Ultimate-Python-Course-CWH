@@ -20,3 +20,15 @@ lang = input("Enter Language name: ")
 d.update({name: lang})
 
 print(d)
+
+# Output:
+# \Python\The-Ultimate-Python-Course-CWH\Chapter 5 - PS> python .\06_problem6.py
+# Enter friends name: Banti
+# Enter Language name: Hindi
+# Enter friends name: Adtiya
+# Enter Language name: Hindi
+# Enter friends name: Shubham
+# Enter Language name: English
+# Enter friends name: Arjun
+# Enter Language name: English
+# {'Banti': 'Hindi', 'Adtiya': 'Hindi', 'Shubham': 'English', 'Arjun': 'English'}
