@@ -7,3 +7,6 @@ if(a>=18):
     
 elif(a<0):
     print("You are entering an invalid negative age")
+
+elif(a==0):
+    print("You are entering 0 which is not a valid age")
