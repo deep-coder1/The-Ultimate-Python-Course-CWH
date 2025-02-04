@@ -10,3 +10,8 @@ elif(a<0):
 
 elif(a==0):
     print("You are entering 0 which is not a valid age")
+
+else:
+    print("You are below the age of consent")
+
+print("End of Program")
