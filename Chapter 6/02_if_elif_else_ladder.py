@@ -15,3 +15,9 @@ else:
     print("You are below the age of consent")
 
 print("End of Program")
+
+# Output:
+# Enter your age: 22
+# You are above the age of consent
+# Good for you
+# End of Program
