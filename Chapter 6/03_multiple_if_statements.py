@@ -8,3 +8,4 @@ if(a%2 == 0):
 # If statement no: 2
 if(a>=18):
     print("You are above the age of consent")
+    print("Good for you")
