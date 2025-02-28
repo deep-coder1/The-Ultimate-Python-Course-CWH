@@ -18,3 +18,6 @@ else:
     # End of If statement no: 2
 
 print("End of Program")
+
+# # Output 1:
+# Enter your age: 25
