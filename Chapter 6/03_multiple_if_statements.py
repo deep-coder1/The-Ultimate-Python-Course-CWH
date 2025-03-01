@@ -21,3 +21,7 @@ print("End of Program")
 
 # # Output 1:
 # Enter your age: 25
+# You are above the age of consent
+# Good for you
+# End of Program
+
