@@ -25,3 +25,5 @@ print("End of Program")
 # Good for you
 # End of Program
 
+# # Output 2:
+# Enter your age: 16
