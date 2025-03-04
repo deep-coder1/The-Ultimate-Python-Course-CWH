@@ -28,3 +28,4 @@ print("End of Program")
 # # Output 2:
 # Enter your age: 16
 # a is even
+# You are below the age of consent
