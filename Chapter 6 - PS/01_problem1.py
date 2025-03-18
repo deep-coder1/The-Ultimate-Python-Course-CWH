@@ -15,3 +15,5 @@ elif(a4>a1 and a4>a2 and a4>a3):
     print("Greatest number is a4:", a4)
 
     
+
+# Output:-
