@@ -20,4 +20,5 @@ elif(a4>a1 and a4>a2 and a4>a3):
 # Chapter 6 - PS/01_problem1.py"
 # Enter number 1: 8
 # Enter number 2: 15
+# Enter number 3: 6
 
