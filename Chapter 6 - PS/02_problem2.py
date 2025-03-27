@@ -3,5 +3,6 @@
 # take marks as an input from the user. 
 
 marks1 = int(input("Enter Marks 1: "))
+marks2 = int(input("Enter Marks 2: "))
 
 
