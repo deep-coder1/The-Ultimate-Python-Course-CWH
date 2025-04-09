@@ -15,7 +15,4 @@ else:
     print("You failed, try again next year", total_percentage)
 
 
-
-
-
-    
+# Output:
