@@ -17,6 +17,5 @@ else:
 
 # Output:
 # /Python/The-Ultimate-Python-Course-CWH/Chapter 6 - PS/02_problem2.py"
-# Enter Marks 1:
-
+# Enter Marks 1: 75
 
