@@ -20,4 +20,5 @@ else:
 # Enter Marks 1: 75
 # Enter Marks 2: 62
 # Enter Marks 3: 86
+# You are passed: 74.33333333333333
 
