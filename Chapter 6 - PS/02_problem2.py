@@ -15,10 +15,12 @@ else:
     print("You failed, try again next year", total_percentage)
 
 
-# Output:
+# Output 1:
 # /Python/The-Ultimate-Python-Course-CWH/Chapter 6 - PS/02_problem2.py"
 # Enter Marks 1: 75
 # Enter Marks 2: 62
 # Enter Marks 3: 86
 # You are passed: 74.33333333333333
 
+
+# # Output 2:
