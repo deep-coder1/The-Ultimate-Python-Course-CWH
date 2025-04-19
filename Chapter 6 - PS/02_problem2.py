@@ -24,3 +24,4 @@ else:
 
 
 # # Output 2:
+# /Python/The-Ultimate-Python-Course-CWH/Chapter 6 - PS/02_problem2.py"
