@@ -28,4 +28,4 @@ else:
 # Enter Marks 1: 65
 # Enter Marks 2: 44
 # Enter Marks 3: 32
-# You 
+# You failed, 
