@@ -28,4 +28,4 @@ else:
 # Enter Marks 1: 65
 # Enter Marks 2: 44
 # Enter Marks 3: 32
-# You failed, try again next year 
+# You failed, try again next year 47.0
