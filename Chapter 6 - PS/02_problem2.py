@@ -31,4 +31,4 @@ else:
 # You failed, try again next year 47.0
 
 # Output 3: 
-# Enter Marks 1: 
+# Enter Marks 1: 52
