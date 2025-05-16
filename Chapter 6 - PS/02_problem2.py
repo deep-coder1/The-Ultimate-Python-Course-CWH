@@ -32,4 +32,4 @@ else:
 
 # Output 3: 
 # Enter Marks 1: 52
-# Enter 
+# Enter Marks 
