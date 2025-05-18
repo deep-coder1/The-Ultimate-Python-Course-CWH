@@ -32,4 +32,5 @@ else:
 
 # Output 3: 
 # Enter Marks 1: 52
-# Enter Marks 2: 
+# Enter Marks 2: 32
+
