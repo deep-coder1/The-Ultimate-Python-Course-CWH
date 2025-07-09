@@ -38,4 +38,4 @@ elif(a4>a1 and a4>a2 and a4>a3):
 # Enter number 2: 58
 # Enter number 3: 42
 # Enter number 4: 36
-# Greatest number 
+# Greatest number is 
