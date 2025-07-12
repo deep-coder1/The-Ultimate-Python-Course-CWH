@@ -32,3 +32,7 @@ print(s)
 # Enter number: 52
 # Enter number: 13
 # {4, 5, 8, 9, 12, 13, 47, 52}
+
+# Output 2:
+# Python-Course-CWH/Chapter 5 - PS/02_problem2.py"
+Enter 
