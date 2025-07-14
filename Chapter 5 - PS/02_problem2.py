@@ -35,4 +35,4 @@ print(s)
 
 # Output 2:
 # Python-Course-CWH/Chapter 5 - PS/02_problem2.py"
-Enter number: 
+# Enter number: 26
