@@ -39,4 +39,4 @@ print(s)
 # Enter number: 55
 # Enter number: 48
 # Enter number: 88
-# Enter 
+# Enter number: 
