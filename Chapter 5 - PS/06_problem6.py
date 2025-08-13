@@ -32,3 +32,6 @@ print(d)
 # Enter friends name: Arjun
 # Enter Language name: English
 # {'Banti': 'Hindi', 'Adtiya': 'Hindi', 'Shubham': 'English', 'Arjun': 'English'}
+
+# Outout 2:
+# /Python/The-Ultimate-Python-Course-CWH/Chapter 5 - PS/06_problem6.py"
