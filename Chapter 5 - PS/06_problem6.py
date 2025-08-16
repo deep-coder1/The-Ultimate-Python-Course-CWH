@@ -35,4 +35,4 @@ print(d)
 
 # Outout 2:
 # /Python/The-Ultimate-Python-Course-CWH/Chapter 5 - PS/06_problem6.py"
-# Enter friends 
+# Enter friends name: 
