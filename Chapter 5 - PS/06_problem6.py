@@ -42,3 +42,4 @@ print(d)
 # Enter friends name: Sandeep
 # Enter Language name: English
 # Enter friends name: Abhijeet
+# Enter 
