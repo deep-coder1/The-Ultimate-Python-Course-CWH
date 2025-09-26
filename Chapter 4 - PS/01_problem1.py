@@ -19,6 +19,7 @@ fruits.append(f7)
 
 print(fruits)
 
+# Output1 :
 # \Python\The-Ultimate-Python-Course-CWH\Chapter 4 - PS> python .\01_problem1.py
 # Enter Fruit name: Apple
 # Enter Fruit name: Mango
@@ -28,3 +29,5 @@ print(fruits)
 # Enter Fruit name: Watermelon
 # Enter Fruit name: Papaya
 # ['Apple', 'Mango', 'Banana', 'Blackberry', 'Pineapple', 'Watermelon', 'Papaya']
+
+# Output 2:
