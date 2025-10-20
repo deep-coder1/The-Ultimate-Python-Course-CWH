@@ -38,4 +38,3 @@ print(fruits)
 # Enter Fruit name: Papaya
 # Enter Fruit name: Orange
 # Enter Fruit name: 
-# 01 Problem 3.3 Chapter 4 - PS working.
