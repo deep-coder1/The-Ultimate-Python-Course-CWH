@@ -38,4 +38,4 @@ print(fruits)
 # Enter Fruit name: Papaya
 # Enter Fruit name: Orange
 # Enter Fruit name: Banana
-# Enter 
+# Enter Fruit 
