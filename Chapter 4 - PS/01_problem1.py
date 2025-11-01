@@ -39,4 +39,5 @@ print(fruits)
 # Enter Fruit name: Orange
 # Enter Fruit name: Banana
 # Enter Fruit name: Grapes
-# ['Mango', 'Blackberry', 'Watermelon', 'Papaya', 'Orange', 'Banana', 
+# ['Mango', 'Blackberry', 'Watermelon', 'Papaya', 'Orange', 'Banana', 'Grapes']
+
