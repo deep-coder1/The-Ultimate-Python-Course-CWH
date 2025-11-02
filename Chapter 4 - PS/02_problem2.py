@@ -20,7 +20,7 @@ marks.sort()
 
 print(marks)
 
-# Output:
+# Output 1:
 
 # \Python\The-Ultimate-Python-Course-CWH\Chapter 4 - PS> python .\02_problem2.py
 # Enter Marks here: 40
@@ -30,3 +30,6 @@ print(marks)
 # Enter Marks here: 80
 # Enter Marks here: 90
 # [30, 40, 50, 70, 80, 90]
+
+# Output 2:
+# Chapter 4 - PS/02_problem2.py"
