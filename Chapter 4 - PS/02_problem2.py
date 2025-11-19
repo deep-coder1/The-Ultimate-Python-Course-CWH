@@ -36,3 +36,4 @@ print(marks)
 # Enter Marks here: 85
 # Enter Marks here: 66
 # Enter Marks here: 42
+# Enter Marks here: 70
