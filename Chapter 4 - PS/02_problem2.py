@@ -39,4 +39,4 @@ print(marks)
 # Enter Marks here: 70
 # Enter Marks here: 55
 # Enter Marks here: 78
-# [42, 
+# [42, 55, 
