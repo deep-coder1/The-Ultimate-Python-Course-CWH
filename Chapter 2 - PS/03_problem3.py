@@ -9,3 +9,5 @@ print(type(a))
 # <class 'str'>
 
 # Output 2:
+# /Python/The-Ultimate-Python-Course-CWH/Chapter 2 - PS/03_problem3.py
+# Enter
