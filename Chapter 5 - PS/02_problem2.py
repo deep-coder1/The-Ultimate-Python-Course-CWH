@@ -21,7 +21,7 @@ s.add(int(n))
 
 print(s)
 
-# Output:
+# Output 1:
 # \Python\The-Ultimate-Python-Course-CWH\Chapter 5 - PS> python .\02_problem2.py
 # Enter number: 8
 # Enter number: 5
@@ -44,3 +44,5 @@ print(s)
 # Enter number: 8
 # Enter number: 15
 # {2, 8, 76, 15, 48, 55, 88, 26}
+
+# Output 3:
