@@ -49,5 +49,4 @@ print(s)
 # Python-Course-CWH/Chapter 5 - PS/02_problem2.py"
 # Enter number: 8
 # Enter number: 45
-# Enter number: 26
-# Enter 
+# Enter number
