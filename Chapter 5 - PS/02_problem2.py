@@ -50,4 +50,4 @@ print(s)
 # Enter number: 8
 # Enter number: 45
 # Enter number: 26
-# Enter number: 
+# Enter number: 88
