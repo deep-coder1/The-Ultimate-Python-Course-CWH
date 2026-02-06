@@ -55,4 +55,4 @@ print(s)
 # Enter number: 72
 # Enter number: 36
 # Enter number: 92
-# {
+# {68
