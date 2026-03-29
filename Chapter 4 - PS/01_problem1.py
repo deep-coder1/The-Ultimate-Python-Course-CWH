@@ -48,4 +48,4 @@ print(fruits)
 # Enter Fruit name: Kiwi
 # Enter Fruit name: Pear
 # Enter Fruit name: Lime
-# Enter 
+# Enter Fruit 
