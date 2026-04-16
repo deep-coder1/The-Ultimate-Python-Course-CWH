@@ -50,4 +50,4 @@ print(fruits)
 # Enter Fruit name: Lime
 # Enter Fruit name: Strawberry
 # Enter Fruit name: Coconut
-# ['Jackfruit', 'Cherry'
+# ['Jackfruit', 'Cherry', 
