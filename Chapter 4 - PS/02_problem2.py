@@ -40,3 +40,6 @@ print(marks)
 # Enter Marks here: 55
 # Enter Marks here: 78
 # [42, 55, 66, 70, 78, 85]
+
+# Output 3:
+# Chapter 4 - PS/02_problem2.py"
