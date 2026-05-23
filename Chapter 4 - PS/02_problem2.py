@@ -45,4 +45,4 @@ print(marks)
 # Chapter 4 - PS/02_problem2.py"
 # Enter Marks here: 82
 # Enter Marks here: 56
-# Enter Marks here: 
+# Enter Marks here: 74
